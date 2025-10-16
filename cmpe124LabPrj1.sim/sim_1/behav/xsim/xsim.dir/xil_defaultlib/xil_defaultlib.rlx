@@ -1,0 +1,15 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/htuta/cmpe124LabPrj1/cmpe124LabPrj1.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/htuta/cmpe124LabPrj1/cmpe124LabPrj1.srcs/sim_1/new/tb_adder.v,1760553647,verilog,,,,tb_adder,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/htuta/cmpe124LabPrj1/cmpe124LabPrj1.srcs/sim_1/new/tb_and.v,1758731190,verilog,,,,tb_and,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/htuta/cmpe124LabPrj1/cmpe124LabPrj1.srcs/sim_1/new/tb_mux2to1.v,1759344305,verilog,,,,tb_mux2to1,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/htuta/cmpe124LabPrj1/cmpe124LabPrj1.srcs/sim_1/new/tb_mux3to1.v,1759344994,verilog,,,,tb_mux3to1,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/htuta/cmpe124LabPrj1/cmpe124LabPrj1.srcs/sim_1/new/tb_or.v,1758734458,verilog,,,,tb_or,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/htuta/cmpe124LabPrj1/cmpe124LabPrj1.srcs/sources_1/new/OneBitFullAdder.v,1760553536,verilog,,C:/Users/htuta/cmpe124LabPrj1/cmpe124LabPrj1.srcs/sim_1/new/tb_adder.v,,OneBitFullAdder,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/htuta/cmpe124LabPrj1/cmpe124LabPrj1.srcs/sources_1/new/and_gate.v,1758734390,verilog,,C:/Users/htuta/cmpe124LabPrj1/cmpe124LabPrj1.srcs/sources_1/new/or_gate.v,,and_gate,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/htuta/cmpe124LabPrj1/cmpe124LabPrj1.srcs/sources_1/new/mux2to1.v,1759343081,verilog,,C:/Users/htuta/cmpe124LabPrj1/cmpe124LabPrj1.srcs/sim_1/new/tb_mux3to1.v,,mux2to1,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/htuta/cmpe124LabPrj1/cmpe124LabPrj1.srcs/sources_1/new/mux3to1.v,1759344741,verilog,,C:/Users/htuta/cmpe124LabPrj1/cmpe124LabPrj1.srcs/sim_1/new/tb_mux3to1.v,,mux3to1,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/htuta/cmpe124LabPrj1/cmpe124LabPrj1.srcs/sources_1/new/or_gate.v,1758732212,verilog,,C:/Users/htuta/cmpe124LabPrj1/cmpe124LabPrj1.srcs/sim_1/new/tb_or.v,,or_gate,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
