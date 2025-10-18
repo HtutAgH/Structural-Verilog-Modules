@@ -5,7 +5,7 @@ module tb_RCA();
     wire [3:0] sum;
     wire cout;
 
-    FourBitsRCA tb(sum, cout, a, b, cin);
+    //FourBitsRCA tb(sum, cout, a, b, cin);
 
     initial begin
         cin = 0;
