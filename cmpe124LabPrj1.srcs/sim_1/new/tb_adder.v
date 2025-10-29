@@ -15,3 +15,4 @@ a=0;b=0;cin=0;
 #10 $finish;
 end
 endmodule
+

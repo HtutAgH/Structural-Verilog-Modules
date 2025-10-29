@@ -1,0 +1,186 @@
+$date
+   Tue Oct 28 22:43:10 2025
+$end
+
+$version
+  2025.1.0
+  $dumpfile ("timing.vcd") 
+$end
+
+$timescale
+  1ps
+$end
+
+$scope module tb_RCA $end
+$var reg 4 ! a [3:0] $end
+$var reg 4 " b [3:0] $end
+$var reg 1 # cin $end
+$var wire 4 $ sum [3:0] $end
+$var wire 1 % cout $end
+$scope module DUT $end
+$var wire 4 $ sum [3:0] $end
+$var wire 1 % cout $end
+$var wire 4 & a [3:0] $end
+$var wire 4 ' b [3:0] $end
+$var wire 1 ( cin $end
+$var wire 1 ) c1 $end
+$var wire 1 * c2 $end
+$var wire 1 + c3 $end
+$scope module FA0 $end
+$var wire 1 , sum $end
+$var wire 1 ) cout $end
+$var wire 1 - a $end
+$var wire 1 . b $end
+$var wire 1 ( cin $end
+$var wire 1 / a_ $end
+$var wire 1 0 b_ $end
+$var wire 1 1 cin_ $end
+$var wire 1 2 m1 $end
+$var wire 1 3 m2 $end
+$var wire 1 4 m3 $end
+$var wire 1 5 m4 $end
+$var wire 1 6 M1 $end
+$var wire 1 7 M2 $end
+$var wire 1 8 M3 $end
+$upscope $end
+$scope module FA1 $end
+$var wire 1 9 sum $end
+$var wire 1 * cout $end
+$var wire 1 : a $end
+$var wire 1 ; b $end
+$var wire 1 ) cin $end
+$var wire 1 < a_ $end
+$var wire 1 = b_ $end
+$var wire 1 > cin_ $end
+$var wire 1 ? m1 $end
+$var wire 1 @ m2 $end
+$var wire 1 A m3 $end
+$var wire 1 B m4 $end
+$var wire 1 C M1 $end
+$var wire 1 D M2 $end
+$var wire 1 E M3 $end
+$upscope $end
+$scope module FA2 $end
+$var wire 1 F sum $end
+$var wire 1 + cout $end
+$var wire 1 G a $end
+$var wire 1 H b $end
+$var wire 1 * cin $end
+$var wire 1 I a_ $end
+$var wire 1 J b_ $end
+$var wire 1 K cin_ $end
+$var wire 1 L m1 $end
+$var wire 1 M m2 $end
+$var wire 1 N m3 $end
+$var wire 1 O m4 $end
+$var wire 1 P M1 $end
+$var wire 1 Q M2 $end
+$var wire 1 R M3 $end
+$upscope $end
+$scope module FA3 $end
+$var wire 1 S sum $end
+$var wire 1 % cout $end
+$var wire 1 T a $end
+$var wire 1 U b $end
+$var wire 1 + cin $end
+$var wire 1 V a_ $end
+$var wire 1 W b_ $end
+$var wire 1 X cin_ $end
+$var wire 1 Y m1 $end
+$var wire 1 Z m2 $end
+$var wire 1 [ m3 $end
+$var wire 1 \ m4 $end
+$var wire 1 ] M1 $end
+$var wire 1 ^ M2 $end
+$var wire 1 _ M3 $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+
+#0
+$dumpvars
+b0 !
+b0 "
+0#
+bx $
+x%
+b0 &
+b0 '
+0(
+x)
+x*
+x+
+x,
+0-
+0.
+x/
+x0
+x1
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+0:
+0;
+x<
+x=
+x>
+x?
+x@
+xA
+xB
+xC
+xD
+xE
+xF
+0G
+0H
+xI
+xJ
+xK
+xL
+xM
+xN
+xO
+xP
+xQ
+xR
+xS
+0T
+0U
+xV
+xW
+xX
+xY
+xZ
+x[
+x\
+x]
+x^
+x_
+$end
+
+#100
+1#
+1(
+
+#300
+b1 !
+b1 &
+1-
+0:
+0G
+0T
+
+#500
+b10 "
+b10 '
+0.
+1;
+0H
+0U
