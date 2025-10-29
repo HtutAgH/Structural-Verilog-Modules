@@ -4,8 +4,8 @@ May 22 2025
 00:13:55
 C:/Users/htuta/cmpe124 Modules/cmpe124LabPrj1.sim/sim_1/behav/xsim/glbl.v,1760653788,verilog,,,,glbl,,,,,,,,
 C:/Users/htuta/cmpe124 Modules/cmpe124LabPrj1.srcs/sim_1/new/tb_RCA.v,1761716577,verilog,,,,tb_RCA,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
-C:/Users/htuta/cmpe124 Modules/cmpe124LabPrj1.srcs/sim_1/new/tb_adder.v,1761717962,verilog,,,,tb_adder,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/htuta/cmpe124 Modules/cmpe124LabPrj1.srcs/sim_1/new/tb_adder.v,1761719159,verilog,,,,tb_adder,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
 C:/Users/htuta/cmpe124 Modules/cmpe124LabPrj1.srcs/sim_1/new/tb_fourbitssubtractor.v,1760753681,verilog,,,,tb_FourBitsSubtractor,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
 C:/Users/htuta/cmpe124 Modules/cmpe124LabPrj1.srcs/sources_1/new/FourBitsRCA.v,1760752224,verilog,,C:/Users/htuta/cmpe124 Modules/cmpe124LabPrj1.srcs/sources_1/new/OneBitFullAdder.v,,FourBitsRCA,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
 C:/Users/htuta/cmpe124 Modules/cmpe124LabPrj1.srcs/sources_1/new/FourBitsSubtractor.v,1760753817,verilog,,C:/Users/htuta/cmpe124 Modules/cmpe124LabPrj1.srcs/sources_1/new/OneBitFullAdder.v,,FourBitsSubtractor,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
-C:/Users/htuta/cmpe124 Modules/cmpe124LabPrj1.srcs/sources_1/new/OneBitFullAdder.v,1761717135,verilog,,C:/Users/htuta/cmpe124 Modules/cmpe124LabPrj1.srcs/sim_1/new/tb_adder.v,,OneBitFullAdder,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/htuta/cmpe124 Modules/cmpe124LabPrj1.srcs/sources_1/new/OneBitFullAdder.v,1761718403,verilog,,C:/Users/htuta/cmpe124 Modules/cmpe124LabPrj1.srcs/sim_1/new/tb_adder.v,,OneBitFullAdder,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,

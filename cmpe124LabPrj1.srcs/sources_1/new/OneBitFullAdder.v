@@ -1,3 +1,4 @@
+`timescale 1ps / 1ps
 module OneBitFullAdder(output sum, cout, input a, b, cin);
     wire a_, b_, cin_;
     
