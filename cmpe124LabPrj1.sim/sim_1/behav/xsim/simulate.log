@@ -1,18 +1,2 @@
 Time resolution is 1 ps
-A=00 B=00 Cin=0 => Sum=00 Cout=0
-A=01 B=00 Cin=0 => Sum=01 Cout=0
-A=10 B=00 Cin=0 => Sum=10 Cout=0
-A=11 B=00 Cin=0 => Sum=11 Cout=0
-A=00 B=01 Cin=0 => Sum=01 Cout=0
-A=01 B=01 Cin=0 => Sum=10 Cout=0
-A=10 B=01 Cin=0 => Sum=01 Cout=0
-A=11 B=01 Cin=0 => Sum=10 Cout=1
-A=00 B=10 Cin=0 => Sum=00 Cout=0
-A=01 B=10 Cin=0 => Sum=11 Cout=0
-A=10 B=10 Cin=0 => Sum=00 Cout=1
-A=11 B=10 Cin=0 => Sum=01 Cout=1
-A=00 B=11 Cin=0 => Sum=11 Cout=0
-A=01 B=11 Cin=0 => Sum=10 Cout=1
-A=10 B=11 Cin=0 => Sum=01 Cout=1
-A=11 B=11 Cin=0 => Sum=10 Cout=1
-$finish called at time : 3200 ps : File "C:/Users/htuta/cmpe124LabPrj1/cmpe124LabPrj1.srcs/sim_1/new/tb_TwoBitRCA.v" Line 23
+$stop called at time : 320 ps : File "C:/Users/htuta/cmpe124 Modules/cmpe124LabPrj1.srcs/sim_1/new/Counter4bit_tb.v" Line 25

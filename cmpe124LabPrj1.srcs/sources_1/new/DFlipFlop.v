@@ -1,10 +1,12 @@
-module DFlipFlop(output Q, Q_, input D,Clk);
-wire S,R,D_;
+module DFlipFlop(output reg Q, output Qbar,
+                 input D, Clk, Reset);
 
-not n0(D_,D);
-nand n1(S,D,Clk);
-nand n2(R,D_,Clk);
-nand n3(Q,S,Q_);
-nand n4(Q_,R,Q);
+    assign Qbar = ~Q;
 
+    always @(posedge Clk or negedge Reset) begin
+        if (!Reset)
+            Q <= 1'b0;      // clear when Reset = 0
+        else
+            Q <= D;         // otherwise follow D
+    end
 endmodule
